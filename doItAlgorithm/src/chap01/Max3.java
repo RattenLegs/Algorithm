@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class Max3 {
 
 	public static void main(String[] args) {
-		
+
+		//키보드로 숫자와 문자열 입력하는 방법(1): Scanner
 		Scanner stdIn = new Scanner(System.in);
 		
 		System.out.println("세 정수의 최대값을 구합니다.");
