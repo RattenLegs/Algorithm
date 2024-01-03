@@ -6,7 +6,7 @@ public class Max3m {
 		if(b > max) max = b;
 		if(c > max) max = c;
 		
-		return max; //구한 최대값을 호출한 곳으로 반환ㄴ
+		return max; //구한 최대값을 호출한 곳으로 반환
 		//왜 static을 쓰는가?
 	}
 	
