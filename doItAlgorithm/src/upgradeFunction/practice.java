@@ -11,7 +11,7 @@ public class practice {
 	
 		System.out.println("세 정수의 최대값을 구합니다.");
 		System.out.println("a의 값:");
-		int a = stdIn.nextInt(); //.nextInt()가 호출되면 키보드로 입력한 정수값을 얻을 수 있다.
+		int a = stdIn.nextInt();
 		System.out.println("b의 값:");
 		int b = stdIn.nextInt();
 		System.out.println("c의 값:");
