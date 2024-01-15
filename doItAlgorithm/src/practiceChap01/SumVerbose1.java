@@ -11,11 +11,12 @@ class SumVerbose1 {
 
         System.out.println("1부터 n까지의 합을 구합니다.");
         
-        //do-while 공부
+        //음수 배제를 위한 do-while문
         do {
             System.out.print("n값: ");
             n = stdIn.nextInt();
-        } while (n <= 0);
+        } while (n <= 0);//while문이 false일 경우 종료
+        //이 경우에는 n>0이면 종료되니까 바로 for로 넘어가겠네
 
         int sum = 0;        // 합
 
