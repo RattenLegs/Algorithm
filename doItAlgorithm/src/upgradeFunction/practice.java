@@ -3,8 +3,7 @@ package upgradeFunction;
 import java.util.Scanner;
 
 public class practice {
-
-
+	//내일은 배열 끝을 봅시다
 	//대소비교
 	static void question1() {
 		Scanner stdIn = new Scanner(System.in);
