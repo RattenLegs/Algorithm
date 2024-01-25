@@ -19,6 +19,7 @@ public class SumFor {
 			sum += i;
 		
 		System.out.println("1부터 " + n + "까지의 합은 " + sum + "입니다.");
+		stdIn.close();
 	}
 
 }

@@ -33,5 +33,6 @@ class ReverseArray {
 
         System.out.println("요소를 역순으로 정렬했습니다.");
         System.out.println("x = " + Arrays.toString(x));
+        stdIn.close();
     }
 }

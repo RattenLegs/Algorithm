@@ -31,11 +31,9 @@ public class SumOf {
 		System.out.println("b ют╥б");
 		int b = stdIn.nextInt();
 		
-		int sum = 0;
-		
 		System.out.println(sumof(a, b));
 		
-		
+		stdIn.close();
 	}
 
 }

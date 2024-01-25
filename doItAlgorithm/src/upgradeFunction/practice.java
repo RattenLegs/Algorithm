@@ -22,6 +22,8 @@ public class practice {
 		
 		System.out.println("최대값은 " + max + " 입니다.");
 		returnMain();
+		
+		stdIn.close();
 
 	}
 	
@@ -40,7 +42,7 @@ public class practice {
 			System.out.println("이 수는 0입니다.");
 		}
 		returnMain();
-
+		stdIn.close();
 	}
 	
 	//메인 화면으로 복귀
@@ -55,6 +57,7 @@ public class practice {
 			System.out.println("잘못 누르셨습니다.");
 			System.out.println("시스템을 종료합니다.");
 		}
+		stdIn.close();
 	}
 	
 	//질문
@@ -81,6 +84,7 @@ public class practice {
 				System.out.println("시스템을 종료합니다.");
 			}
 		}
+		stdIn.close();
 	}
 	
 	

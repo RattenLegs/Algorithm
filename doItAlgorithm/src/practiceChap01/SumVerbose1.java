@@ -21,13 +21,14 @@ class SumVerbose1 {
         int sum = 0;        // 합
 
         for (int i = 1; i <= n; i++) {
-            if (i < n)        // 중간 과정
+            if (i < n)        // i<n
                 System.out.print(i + " + ");
-            else              // 마지막 과정
+            else              // i=n
                 System.out.print(i + " = ");
             sum += i;         // sum에 i를 더함
         }
 
         System.out.println(sum);
+        stdIn.close();
     }
 }

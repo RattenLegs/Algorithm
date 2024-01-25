@@ -37,6 +37,7 @@ public class Median {
 				System.out.println("중앙값은 " + med3(a, b, c)  + " 입니다.");
 
 				//중앙값을 구하는 것은 퀵 정렬(quick sort)에서도 이용
+				stdIn.close();
 	}
 
 }

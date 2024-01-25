@@ -24,5 +24,6 @@ class DigitsNo {
 		}
 
 		System.out.println("그 수는 " + no + "자리입니다.");
+		stdIn.close();
 	}
 }

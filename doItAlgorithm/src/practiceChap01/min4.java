@@ -23,7 +23,7 @@ public class min4 {
 		if(d<min) min = d;
 		
 		System.out.println("최소값은 " + min + " 입니다.");
-
+		stdIn.close();
 	}
 
 }

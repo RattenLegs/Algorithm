@@ -17,6 +17,8 @@ public class SumGaus {
 		
 		int sum = (1+n)*n/2;
 		System.out.println(sum);
+		
+		stdIn.close();
 	}
-
+//가우스에 1+2+3+4+5 형식 넣어보기
 }

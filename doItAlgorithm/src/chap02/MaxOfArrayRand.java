@@ -30,5 +30,6 @@ class MaxOfArrayRand {
      }
 
      System.out.println("최댓값은 " + maxOf(height) + "입니다.");
+     stdIn.close();
  }
 }

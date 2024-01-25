@@ -18,5 +18,6 @@ public class TriangleLB {
                 System.out.print('*');
             System.out.println();
         }
+        stdIn.close();
     }
 }

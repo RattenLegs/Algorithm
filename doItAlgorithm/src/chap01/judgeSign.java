@@ -17,6 +17,8 @@ public class judgeSign {
 		} else {
 			System.out.println("이 수는 0입니다.");
 		}
+		
+		stdIn.close();
 	}
 
 }

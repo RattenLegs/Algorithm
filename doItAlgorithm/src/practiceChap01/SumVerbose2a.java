@@ -25,5 +25,7 @@ class SumVerbose2a {
      }
 
      System.out.println(n + " = " + (sum += n));
+     
+     stdIn.close();
  }
 }

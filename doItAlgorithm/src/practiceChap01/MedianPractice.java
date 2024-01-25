@@ -37,6 +37,8 @@ public class MedianPractice {
 		int c = stdIn.nextInt();
 		System.out.println("중앙값은 " + median3(a, b, c)  + " 입니다.");
 		
+		stdIn.close();
+		
 	}
 
 }

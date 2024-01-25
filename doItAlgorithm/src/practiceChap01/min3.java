@@ -20,7 +20,7 @@ public class min3 {
 				if(c<min) min = c;
 				
 				System.out.println("최소값은 " + min + " 입니다.");
-
+				stdIn.close();
 	}
 
 }

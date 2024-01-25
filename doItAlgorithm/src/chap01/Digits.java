@@ -18,5 +18,6 @@ class Digits {
 		} while(no<10 || no>99); //do-while을 하면 do가 아닐 시 자동으로 while 반복이 되는구나!
 		
 		System.out.println("변수 no의 값은 " + no + "가(이) 되었습니다.");
+		stdIn.close();
 	}
 }

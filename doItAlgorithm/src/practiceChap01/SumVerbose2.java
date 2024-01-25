@@ -26,5 +26,7 @@ class SumVerbose2 {
      System.out.print(n + " = ");
      sum += n;            // sum에 n을 더함
      System.out.println(sum);
+     
+     stdIn.close();
  }
 }

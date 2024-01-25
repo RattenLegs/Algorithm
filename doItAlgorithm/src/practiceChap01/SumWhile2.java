@@ -20,6 +20,8 @@ public class SumWhile2 {
 		}
 		System.out.println("1부터 " + n +"까지의 합은 " + sum + "이고 i는 " + i + "입니다.");
 		
+		
+		stdIn.close();
 	}
 
 }
