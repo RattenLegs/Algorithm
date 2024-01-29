@@ -1,6 +1,6 @@
 package practiceChap01;
-// 연습1-10
 // 양의 정숫값의 자릿수를 구하여 출력
+//이녀석 다시 공부
 
 import java.util.Scanner;
 
