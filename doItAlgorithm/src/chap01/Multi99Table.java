@@ -10,6 +10,7 @@ public class Multi99Table {
 				{System.out.printf("%3d", i * j);}
 			//https://keep-cool.tistory.com/15
 			//printf도 한번 더
+			//%3d 공부
 			System.out.println();
 			
 		}
