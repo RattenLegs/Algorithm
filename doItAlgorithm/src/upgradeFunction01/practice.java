@@ -1,4 +1,4 @@
-package upgradeFunction;
+package upgradeFunction01;
 
 import java.util.Scanner;
 

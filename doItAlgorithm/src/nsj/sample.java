@@ -1,9 +1,12 @@
-package practiceChap01;
+package nsj;
 
 import java.util.Scanner;
 
-public class triangle {
+public class sample {
 
+
+	//입력을 받아서 해봅시다.
+	
 	public static void main(String[] args) {
 		
 		//입력을 받읍시다.
@@ -27,7 +30,8 @@ public class triangle {
 			System.out.println(); // 한번 끝나면 공백 하나
 		}
 		
-	
+		
+
 		stdIn.close();
 	}
 
