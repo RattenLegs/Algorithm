@@ -1,4 +1,4 @@
-package chap01;
+package chap01.chap01Basic;
 
 import java.util.Scanner;
 //3개의 정수값을 입력하고 중앙값을 구한 다음 출력합니다.

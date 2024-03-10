@@ -1,4 +1,4 @@
-package upgradeFunction01;
+package chap01.upgradeFunction01;
 
 public class MultiTableUpgrade {
 
