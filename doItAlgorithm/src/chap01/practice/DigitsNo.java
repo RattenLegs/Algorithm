@@ -1,4 +1,4 @@
-package chap01.practiceChap01;
+package chap01.practice;
 // 양의 정숫값의 자릿수를 구하여 출력
 //이녀석 다시 공부
 

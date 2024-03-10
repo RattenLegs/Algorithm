@@ -1,6 +1,6 @@
 
 //3개의 정수값을 입력하고 최대값을 구합니다.
-package chap01.chap01Basic;
+package chap01.basic;
 import java.util.Scanner;
 
 public class Max3 {

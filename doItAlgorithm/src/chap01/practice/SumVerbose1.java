@@ -1,4 +1,4 @@
-package chap01.practiceChap01;
+package chap01.practice;
 import java.util.Scanner;
 
 //sumVerbose 시리즈는 몰라서 해답 봄

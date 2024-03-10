@@ -1,4 +1,4 @@
-package chap01.chap01Basic;
+package chap01.basic;
 
 public class Multi99Table {
 

@@ -1,4 +1,4 @@
-package chap01.practiceChap01;
+package chap01.practice;
 
 //연습1-9
 //정수 b에서 정수 a을 뺀 값을 구합니다(b > a가 되도록 입력받음)
