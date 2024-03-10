@@ -11,11 +11,12 @@ public class MultiTableUpgrade {
 		 * 
 		 * 1. 구분선 없이 i와 j값 곱의 결과물만 만든다.(완료)
 		 * 2. 구분선을 두고 구분선이 i와 j값에 따라 변할 수 있게 한다.(완료)
-		 * 3. *** 나중에 여유가 된다면 두자리가 넘어가면 출력하지 않는 것으로 설정해보자!(당장 할 건 아님)
+		 * 3. *** 나중에 여유가 된다면 두자리가 넘어가면 출력하지 않는 것으로 설정해보자!(완료)
 		*/
 		
 		int a;
 		int b; 
+	
 		System.out.println("숫자 입력");		
 		Scanner stdIn = new Scanner(System.in);
 		do {
@@ -23,8 +24,9 @@ public class MultiTableUpgrade {
 		a = stdIn.nextInt();
 		System.out.println("최종 j값을 입력해주세요.");
 		b = stdIn.nextInt();
-		} while(a*b < 100);
-		//3번은 좀 안 되네
+
+		} while(a*b >= 100);
+
 		
 		System.out.print("   |");
 		for (int j = 1;j <= b; j++) {
